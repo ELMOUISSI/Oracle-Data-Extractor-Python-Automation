@@ -1,0 +1,10 @@
+2025-10-17 11:43:38,816 - INFO - Starting extraction: CA_TR
+2025-10-17 11:43:38,819 - INFO - Starting extraction: expidition
+2025-10-17 11:43:38,821 - INFO - Starting extraction: ventes
+2025-10-17 11:43:38,900 - ERROR - Error while processing expidition: (oracledb.exceptions.DatabaseError) DPY-4022: invalid value for enumeration AuthMode: thin
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-10-17 11:43:38,901 - ERROR - Error while processing ventes: (oracledb.exceptions.DatabaseError) DPY-4022: invalid value for enumeration AuthMode: thin
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-10-17 11:43:38,901 - ERROR - Error while processing CA_TR: (oracledb.exceptions.DatabaseError) DPY-4022: invalid value for enumeration AuthMode: thin
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-10-17 11:43:38,903 - INFO - All SQL scripts processed in 0.00 min
